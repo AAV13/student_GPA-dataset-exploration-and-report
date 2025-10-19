@@ -1,1 +1,1 @@
-This is a pdf report of my findings on the EDA and analysis which I performed.
+Refer to the Data Exploration pdf which is a report of my findings to answer some questions based on the EDA and analysis I performed.
